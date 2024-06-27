@@ -1,0 +1,9 @@
+{
+  "name": "template-antora",
+  "version": "0.1.0",
+  "description": "Template for anthora docs",
+  "author": "Hisam Fahri",
+  "devDependencies": {
+    "antora": "^3.1.8"
+  }
+}

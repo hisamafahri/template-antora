@@ -1,0 +1,12 @@
+site:
+  title: Hisam Docs
+  # url: https://antora.hisam.dev
+  start_page: component-b::index.adoc
+content:
+  sources:
+    - url: https://github.com/hisamafahri/template-antora
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
