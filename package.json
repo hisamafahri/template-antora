@@ -4,7 +4,7 @@
   "description": "Template for anthora docs",
   "author": "Hisam Fahri",
   "scripts": {
-    "dev": "nodemon -w docs -e adoc --exec \"pnpx antora local.antora-playbook.yml\""
+    "dev": "nodemon -w docs -e adoc --exec \"pnpx antora local-antora-playbook.yml\""
   },
   "devDependencies": {
     "antora": "^3.1.8",
